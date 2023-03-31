@@ -1,3 +1,3 @@
 # Reseptivihko
 
-Näyttää reseptien ohjeen, tarvittavien raaka-aineiden määrät ja hinnan.
+Ohjelma reseptien säilyttämistä varten. Ohjelma mahdollistaa reseptien luomisen, muokkaamisen ja kätevän reseptien tietojen selailun. 
